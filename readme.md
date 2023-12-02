@@ -28,3 +28,7 @@ This script updates missiles alerts and show some manipulations and insights.
 dashboards for example:
 
 ![image](https://github.com/galbo99/alerts_history/assets/152697267/99f513a4-60c5-4a76-b27d-bee6a03a70b6)
+
+
+
+![image](https://github.com/galbo99/alerts_history/assets/152697267/b69a1b0f-b528-4622-992e-94cf90bcbdc1)
