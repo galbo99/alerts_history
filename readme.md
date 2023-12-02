@@ -1,5 +1,5 @@
 In these days, there's a war in Israel.
-This script updates missiles alerts and show some manipulations and insights.
+This script updates missiles alerts db and show some dashboards and insights.
 
 **files doc**
 
