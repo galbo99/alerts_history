@@ -1,4 +1,5 @@
-This script updates alerts DB and show some manipulations and insights.
+In these days, there's a war in Israel.
+This script updates missiles alerts and show some manipulations and insights.
 
 **files doc**
 
