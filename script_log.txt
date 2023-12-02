@@ -1,0 +1,212 @@
+2023-12-02 00:38:15.999213 - Starting new run
+2023-12-02 00:38:15.999213 - Starting fetch alerts history section....
+2023-12-02 00:38:16.268022 - fetching history succeeded
+2023-12-02 00:38:16.270140 - Starting saving to db section....
+2023-12-02 00:39:04.871678 - Starting new run
+2023-12-02 00:39:04.871678 - Starting fetch alerts history section....
+2023-12-02 00:40:43.519923 - Starting new run
+2023-12-02 00:40:43.521004 - Starting fetch alerts history section....
+2023-12-02 00:40:43.745269 - fetching history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 00:40:43.747265 - Starting saving to db section....
+2023-12-02 00:42:04.466151 - Starting new run
+2023-12-02 00:42:04.467148 - Starting fetch alerts history section....
+2023-12-02 00:42:04.692056 - fetching history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 00:42:04.694050 - Starting saving to db section....
+2023-12-02 00:51:39.771027 - Starting new run
+2023-12-02 00:51:39.771027 - Starting fetch alerts history...
+2023-12-02 01:00:51.250650 - Starting new run
+2023-12-02 01:00:51.250650 - Starting fetch alerts history...
+2023-12-02 01:00:51.466846 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:00:51.468841 - Starting save alerts to db...
+2023-12-02 01:00:51.470836 - Nothing to save! no alerts since last run :)
+2023-12-02 01:34:33.033596 - Starting new run
+2023-12-02 01:34:33.034596 - Starting fetch alerts history...
+2023-12-02 01:34:33.256127 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:34:33.258162 - Starting save alerts to db...
+2023-12-02 01:34:33.261155 - Nothing to save! no new alerts since last run
+2023-12-02 01:36:32.560389 - Starting new run
+2023-12-02 01:36:32.561418 - Starting fetch alerts history...
+2023-12-02 01:36:32.779459 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:36:32.781491 - Starting save alerts to db...
+2023-12-02 01:36:32.784483 - Nothing to save! no new alerts since last run
+2023-12-02 01:36:32.784483 - Starting dashboards part
+2023-12-02 01:36:33.658287 - Finished run
+2023-12-02 01:42:48.327962 - Starting new run
+2023-12-02 01:42:48.329048 - Starting fetch alerts history...
+2023-12-02 01:42:48.557925 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:42:48.560948 - Starting save alerts to db...
+2023-12-02 01:42:48.563024 - Nothing to save! no new alerts since last run
+2023-12-02 01:42:48.564027 - Starting dashboards part
+2023-12-02 01:42:50.580471 - Finished run
+2023-12-02 01:43:30.242598 - Starting new run
+2023-12-02 01:43:30.245620 - Starting fetch alerts history...
+2023-12-02 01:43:30.478129 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:43:30.480141 - Starting save alerts to db...
+2023-12-02 01:43:30.483102 - Nothing to save! no new alerts since last run
+2023-12-02 01:43:30.484390 - Starting dashboards part
+2023-12-02 01:43:31.677329 - Finished run
+2023-12-02 01:43:49.754184 - Starting new run
+2023-12-02 01:43:49.755180 - Starting fetch alerts history...
+2023-12-02 01:43:49.913117 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:43:49.916228 - Starting save alerts to db...
+2023-12-02 01:43:49.918225 - Nothing to save! no new alerts since last run
+2023-12-02 01:43:49.918225 - Starting dashboards part
+2023-12-02 01:43:50.985177 - Finished run
+2023-12-02 01:45:07.048160 - Starting new run
+2023-12-02 01:45:07.048160 - Starting fetch alerts history...
+2023-12-02 01:45:07.267481 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:45:07.269475 - Starting save alerts to db...
+2023-12-02 01:45:07.272465 - Nothing to save! no new alerts since last run
+2023-12-02 01:45:07.272465 - Starting dashboards part
+2023-12-02 01:45:08.795790 - Finished run
+2023-12-02 01:45:34.490012 - Starting new run
+2023-12-02 01:45:34.491008 - Starting fetch alerts history...
+2023-12-02 01:45:35.943119 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:45:35.945147 - Starting save alerts to db...
+2023-12-02 01:45:35.948247 - Nothing to save! no new alerts since last run
+2023-12-02 01:45:35.948247 - Starting dashboards part
+2023-12-02 01:45:37.069590 - Finished run
+2023-12-02 01:47:12.030785 - Starting new run
+2023-12-02 01:47:12.030785 - Starting fetch alerts history...
+2023-12-02 01:47:12.251419 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:47:12.253416 - Starting save alerts to db...
+2023-12-02 01:47:12.256410 - Nothing to save! no new alerts since last run
+2023-12-02 01:47:12.256410 - Starting dashboards part
+2023-12-02 01:47:13.584704 - Finished run
+2023-12-02 01:49:41.971216 - Starting new run
+2023-12-02 01:49:41.972225 - Starting fetch alerts history...
+2023-12-02 01:49:43.460671 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:49:43.464660 - Starting save alerts to db...
+2023-12-02 01:49:43.467652 - Nothing to save! no new alerts since last run
+2023-12-02 01:49:43.467652 - Starting dashboards part
+2023-12-02 01:49:44.862745 - Finished run
+2023-12-02 01:52:50.243222 - Starting new run
+2023-12-02 01:52:50.243222 - Starting fetch alerts history...
+2023-12-02 01:52:58.687767 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:52:58.687767 - Starting save alerts to db...
+2023-12-02 01:52:58.694323 - Nothing to save! no new alerts since last run
+2023-12-02 01:52:58.694323 - Starting dashboards part
+2023-12-02 01:55:55.796358 - Starting new run
+2023-12-02 01:55:55.796358 - Starting fetch alerts history...
+2023-12-02 01:55:56.036425 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:55:56.038420 - Starting save alerts to db...
+2023-12-02 01:55:56.040415 - Nothing to save! no new alerts since last run
+2023-12-02 01:55:56.041414 - Starting dashboards part
+2023-12-02 01:55:57.152387 - Finished run
+2023-12-02 01:56:27.969130 - Starting new run
+2023-12-02 01:56:27.970126 - Starting fetch alerts history...
+2023-12-02 01:56:28.188007 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:56:28.190001 - Starting save alerts to db...
+2023-12-02 01:56:28.193115 - Nothing to save! no new alerts since last run
+2023-12-02 01:56:28.193115 - Starting dashboards part
+2023-12-02 01:56:29.271023 - Finished run
+2023-12-02 01:56:36.541113 - Starting new run
+2023-12-02 01:56:36.542111 - Starting fetch alerts history...
+2023-12-02 01:56:36.696622 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:56:36.698612 - Starting save alerts to db...
+2023-12-02 01:56:36.701598 - Nothing to save! no new alerts since last run
+2023-12-02 01:56:36.701598 - Starting dashboards part
+2023-12-02 01:56:38.013165 - Finished run
+2023-12-02 01:56:50.689330 - Starting new run
+2023-12-02 01:56:50.689330 - Starting fetch alerts history...
+2023-12-02 01:56:50.909410 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:56:50.912408 - Starting save alerts to db...
+2023-12-02 01:56:50.915396 - Nothing to save! no new alerts since last run
+2023-12-02 01:56:50.915396 - Starting dashboards part
+2023-12-02 01:56:51.964595 - Finished run
+2023-12-02 01:57:47.000687 - Starting new run
+2023-12-02 01:57:47.000687 - Starting fetch alerts history...
+2023-12-02 01:57:47.237359 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 01:57:47.239355 - Starting save alerts to db...
+2023-12-02 01:57:47.244341 - Nothing to save! no new alerts since last run
+2023-12-02 01:57:47.245341 - Starting dashboards part
+2023-12-02 01:57:48.353508 - Finished run
+2023-12-02 02:05:10.357850 - Starting new run
+2023-12-02 02:05:10.357850 - Starting fetch alerts history...
+2023-12-02 02:05:11.641471 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 02:05:11.643574 - Starting save alerts to db...
+2023-12-02 02:05:11.646537 - Nothing to save! no new alerts since last run
+2023-12-02 02:05:11.647534 - Starting dashboards part
+2023-12-02 02:05:12.710245 - Finished run
+2023-12-02 02:09:46.501039 - Starting new run
+2023-12-02 02:09:46.501039 - Starting fetch alerts history...
+2023-12-02 02:09:46.728278 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 02:09:46.730246 - Starting save alerts to db...
+2023-12-02 02:09:46.734239 - Nothing to save! no new alerts since last run
+2023-12-02 02:09:46.734239 - Starting dashboards part
+2023-12-02 02:09:47.893224 - Finished run
+2023-12-02 02:10:05.934469 - Starting new run
+2023-12-02 02:10:05.935589 - Starting fetch alerts history...
+2023-12-02 02:10:06.173563 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 02:10:06.176663 - Starting save alerts to db...
+2023-12-02 02:10:06.179765 - Nothing to save! no new alerts since last run
+2023-12-02 02:10:06.179765 - Starting dashboards part
+2023-12-02 02:10:07.101735 - Finished run
+2023-12-02 02:10:59.133157 - Starting new run
+2023-12-02 02:10:59.133157 - Starting fetch alerts history...
+2023-12-02 02:10:59.359491 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 02:10:59.361519 - Starting save alerts to db...
+2023-12-02 02:10:59.363511 - Nothing to save! no new alerts since last run
+2023-12-02 02:10:59.364512 - Starting dashboards part
+2023-12-02 02:11:00.504125 - Finished run
+2023-12-02 02:11:33.015608 - Starting new run
+2023-12-02 02:11:33.015608 - Starting fetch alerts history...
+2023-12-02 02:11:33.235781 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 02:11:33.237774 - Starting save alerts to db...
+2023-12-02 02:11:33.240915 - Nothing to save! no new alerts since last run
+2023-12-02 02:11:33.240915 - Starting dashboards part
+2023-12-02 02:11:34.152642 - Finished run
+2023-12-02 02:11:51.218638 - Starting new run
+2023-12-02 02:11:51.218638 - Starting fetch alerts history...
+2023-12-02 02:11:51.379449 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 02:11:51.381444 - Starting save alerts to db...
+2023-12-02 02:11:51.383439 - Nothing to save! no new alerts since last run
+2023-12-02 02:11:51.384551 - Starting dashboards part
+2023-12-02 02:11:52.467452 - Finished run
+2023-12-02 02:13:17.433975 - Starting new run
+2023-12-02 02:13:17.434941 - Starting fetch alerts history...
+2023-12-02 02:13:17.670775 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 02:13:17.675761 - Starting save alerts to db...
+2023-12-02 02:13:17.680756 - Nothing to save! no new alerts since last run
+2023-12-02 02:13:17.681745 - Starting dashboards part
+2023-12-02 02:13:18.829749 - Finished run
+2023-12-02 02:19:12.965275 - Starting new run
+2023-12-02 02:19:12.966242 - Starting fetch alerts history...
+2023-12-02 02:19:13.202715 - Fetching alerts history succeeded - there are 202 alerts in last 24 hours
+2023-12-02 02:19:13.204739 - Starting save alerts to db...
+2023-12-02 02:19:13.207845 - Nothing to save! no new alerts since last run
+2023-12-02 02:19:13.207845 - Starting dashboards part
+2023-12-02 02:19:13.646977 - plot_alerts_per_hour succeeded
+2023-12-02 02:19:14.005913 - plot_alerts_per_date succeeded
+2023-12-02 02:19:14.279307 - plot_top_10_places succeeded
+2023-12-02 02:19:14.280308 - Finished run
+2023-12-02 12:55:47.584171 - Starting new run
+2023-12-02 12:55:47.585170 - Starting fetch alerts history...
+2023-12-02 12:55:47.901919 - Fetching alerts history succeeded - there are 175 alerts in last 24 hours
+2023-12-02 12:55:47.903946 - Starting save alerts to db...
+2023-12-02 12:55:47.952967 - New data saved to the database - there are new alerts since last run
+2023-12-02 12:55:47.953962 - Starting dashboards part
+2023-12-02 12:55:48.783716 - plot_alerts_per_hour succeeded
+2023-12-02 12:55:50.738111 - plot_alerts_per_date succeeded
+2023-12-02 12:55:51.370073 - plot_top_10_places succeeded
+2023-12-02 12:55:51.371071 - Finished run
+2023-12-02 12:59:00.430029 - Starting new run
+2023-12-02 12:59:00.431026 - Starting fetch alerts history...
+2023-12-02 12:59:01.879133 - Fetching alerts history succeeded - there are 175 alerts in last 24 hours
+2023-12-02 12:59:01.882160 - Starting save alerts to db...
+2023-12-02 12:59:01.897102 - Nothing to save! no new alerts since last run
+2023-12-02 12:59:01.897102 - Starting dashboards part
+2023-12-02 12:59:02.494888 - plot_alerts_per_hour succeeded
+2023-12-02 12:59:02.903433 - plot_alerts_per_date succeeded
+2023-12-02 12:59:03.305972 - plot_top_10_places succeeded
+2023-12-02 12:59:03.305972 - Finished run
+2023-12-02 13:34:41.002206 - Starting new run
+2023-12-02 13:34:41.005084 - Starting fetch alerts history...
+2023-12-02 13:34:41.283055 - Fetching alerts history succeeded - there are 176 alerts in last 24 hours
+2023-12-02 13:34:41.285052 - Starting save alerts to db...
+2023-12-02 13:34:41.331150 - New data saved to the database - there are new alerts since last run
+2023-12-02 13:34:41.331150 - Starting dashboards part
+2023-12-02 13:34:41.848648 - plot_alerts_per_hour succeeded
+2023-12-02 13:34:42.233233 - plot_alerts_per_date succeeded
+2023-12-02 13:34:42.477413 - plot_top_10_places succeeded
+2023-12-02 13:34:42.478411 - Finished run
