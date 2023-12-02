@@ -2,10 +2,10 @@ This script updates alerts DB and show some manipulations and insights.
 
 **files doc**
 
-alerts_data.db - sqllite DB
-script_log.txt - log file
-test.py - unit test for the API function
-requirements.txt - dependencies of external libraries 
+1. alerts_data.db - sqllite DB
+2. script_log.txt - log file
+3. test.py - unit test for the API function
+4. requirements.txt - dependencies of external libraries 
 
 **Assumptions;**
 
