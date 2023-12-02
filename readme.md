@@ -1,6 +1,7 @@
 This script updates alerts DB and show some manipulations and insights.
 
 **files doc**
+
 alerts_data.db - sqllite DB
 script_log.txt - log file
 test.py - unit test for the API function
