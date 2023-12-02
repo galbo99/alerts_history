@@ -25,8 +25,8 @@ This script updates missiles alerts and show some manipulations and insights.
 2. between 23 to 5AM, there are no alerts, it's safe interval to take shower and sleep.
 3. Sderot, Ivim, Nir-Am are top 3 dangerous places
 
-dashboards for example:
-
+**dashboards for example:
+**
 ![image](https://github.com/galbo99/alerts_history/assets/152697267/99f513a4-60c5-4a76-b27d-bee6a03a70b6)
 
 
